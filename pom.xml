@@ -44,6 +44,11 @@
       <version>2.25</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+    <groupId>com.clearminds.adbs</groupId>
+  <artifactId>middleware</artifactId>
+  <version>1.0.0</version>
+  </dependency>
   </dependencies>
   <build>
     <finalName>rest</finalName>
